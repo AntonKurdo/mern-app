@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURL": "mongodb+srv://anton:1214@cluster0.djgka.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "anton-masha",
+  "baseUrl": "http://localhost:5000"
+}
